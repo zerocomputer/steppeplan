@@ -1,0 +1,4 @@
+[[permission]]
+identifier = "allow-set-ui-zoom"
+description = "Allows the local SteppePlan UI to set the webview zoom level."
+commands.allow = ["set_ui_zoom"]

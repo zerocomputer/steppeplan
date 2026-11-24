@@ -1,0 +1,13 @@
+{
+  "name": "steppeplan-desktop",
+  "private": true,
+  "version": "0.1.8",
+  "description": "Tauri shell for SteppePlan",
+  "scripts": {
+    "build": "tauri build --no-bundle",
+    "tauri": "tauri"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.12.6"
+  }
+}
